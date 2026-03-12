@@ -1,30 +1,30 @@
 {
   "node_id": "cluster-node-1",
-  "last_updated": "2026-03-12T13:14:21.128109+00:00",
+  "last_updated": "2026-03-12T13:14:37.092292+00:00",
   "active_tunnels": [
     {
       "worker_id": "worker-1",
       "provider": "localhost.run",
-      "url": "https://374f6d5fe0e7fe.lhr.life",
-      "updated": "2026-03-12T13:14:21.126543+00:00"
+      "url": "https://d7619d1ef6f34a.lhr.life",
+      "updated": "2026-03-12T13:14:37.091291+00:00"
     },
     {
       "worker_id": "worker-2",
       "provider": "localhost.run",
-      "url": "https://a6b129a3b8fb2c.lhr.life",
-      "updated": "2026-03-12T13:14:21.126543+00:00"
+      "url": "https://a810a2259fed60.lhr.life",
+      "updated": "2026-03-12T13:14:37.091291+00:00"
     },
     {
       "worker_id": "worker-3",
       "provider": "localhost.run",
-      "url": "https://ca56a3061001f2.lhr.life",
-      "updated": "2026-03-12T13:14:21.126543+00:00"
+      "url": "https://4f9d68368bbdca.lhr.life",
+      "updated": "2026-03-12T13:14:37.091291+00:00"
     },
     {
       "worker_id": "worker-4",
       "provider": "localhost.run",
-      "url": "https://64c85a179ccfcb.lhr.life",
-      "updated": "2026-03-12T13:14:21.126543+00:00"
+      "url": "https://fc12eb4e8659de.lhr.life",
+      "updated": "2026-03-12T13:14:37.091291+00:00"
     }
   ]
 }
