@@ -1,26 +1,26 @@
 {
   "node_id": "cluster-node-1",
-  "last_updated": "2026-03-12T12:35:31.828770+00:00",
+  "last_updated": "2026-03-12T12:35:46.898981+00:00",
   "active_tunnels": [
     {
       "worker_id": "worker-1",
       "url": "https://admin.localhost.run",
-      "updated": "2026-03-12T12:35:31.828770+00:00"
+      "updated": "2026-03-12T12:35:46.898981+00:00"
     },
     {
       "worker_id": "worker-2",
       "url": "https://admin.localhost.run",
-      "updated": "2026-03-12T12:35:31.828770+00:00"
+      "updated": "2026-03-12T12:35:46.898981+00:00"
     },
     {
       "worker_id": "worker-3",
       "url": "https://admin.localhost.run",
-      "updated": "2026-03-12T12:35:31.828770+00:00"
+      "updated": "2026-03-12T12:35:46.898981+00:00"
     },
     {
       "worker_id": "worker-4",
       "url": "https://admin.localhost.run",
-      "updated": "2026-03-12T12:35:31.828770+00:00"
+      "updated": "2026-03-12T12:35:46.898981+00:00"
     }
   ]
 }
