@@ -1,30 +1,18 @@
 {
   "node_id": "cluster-node-1",
-  "last_updated": "2026-03-12T00:29:26.961480+00:00",
+  "last_updated": "2026-03-12T00:33:04.800013+00:00",
   "active_tunnels": [
     {
       "worker_id": "worker-1",
       "provider": "serveo.net",
-      "url": "https://f9534eb2fd6966f9-188-70-20-164.serveousercontent.com",
-      "updated": "2026-03-12T00:29:26.961181+00:00"
+      "url": "https://01f8ce1f60e28417-188-70-20-164.serveousercontent.com",
+      "updated": "2026-03-12T00:33:04.799814+00:00"
     },
     {
       "worker_id": "worker-2",
       "provider": "serveo.net",
-      "url": "https://8fa4748392456203-188-70-20-164.serveousercontent.com",
-      "updated": "2026-03-12T00:29:26.961207+00:00"
-    },
-    {
-      "worker_id": "worker-3",
-      "provider": "serveo.net",
-      "url": "https://a6887a1d37d47fd5-188-70-20-164.serveousercontent.com",
-      "updated": "2026-03-12T00:29:26.961215+00:00"
-    },
-    {
-      "worker_id": "worker-4",
-      "provider": "serveo.net",
-      "url": "https://9d83615e1993b983-188-70-20-164.serveousercontent.com",
-      "updated": "2026-03-12T00:29:26.961222+00:00"
+      "url": "https://d794237e13fb23e5-188-70-20-164.serveousercontent.com",
+      "updated": "2026-03-12T00:33:04.799826+00:00"
     }
   ]
 }
