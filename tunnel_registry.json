@@ -1,6 +1,6 @@
 {
   "node_id": "cluster-node-1",
-  "last_updated": "2026-03-12T13:19:39.814591+00:00",
+  "last_updated": "2026-03-12T13:19:44.232557+00:00",
   "active_tunnels": [
     {
       "worker_id": "worker-1",
@@ -11,8 +11,8 @@
     {
       "worker_id": "worker-2",
       "provider": "localhost.run",
-      "url": "https://a1bb5fcda063b7.lhr.life",
-      "updated": "2026-03-12T13:19:37.584085+00:00"
+      "url": "https://a0d3375e11fa82.lhr.life",
+      "updated": "2026-03-12T13:19:44.232557+00:00"
     },
     {
       "worker_id": "worker-3",
