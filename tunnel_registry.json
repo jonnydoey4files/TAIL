@@ -26,5 +26,25 @@
       "url": "https://0af0d32a412e9a.lhr.life",
       "updated": "2026-03-23T10:36:08.874491+00:00"
     }
-  ]
+  ],
+  "efaa125fe540b1c2": {
+    "node_id": "efaa125fe540b1c2",
+    "last_updated": "2026-03-23T10:48:08.561318+00:00",
+    "active_tunnels": [
+      {
+        "worker_id": "p8080-worker-1",
+        "provider": "localhost.run",
+        "url": "https://608a9f2633db38.lhr.life",
+        "local_port": 8080,
+        "updated": "2026-03-23T10:48:07.547462+00:00"
+      },
+      {
+        "worker_id": "p8080-worker-2",
+        "provider": "localhost.run",
+        "url": "https://bb8a802148af5e.lhr.life",
+        "local_port": 8080,
+        "updated": "2026-03-23T10:48:07.547485+00:00"
+      }
+    ]
+  }
 }
