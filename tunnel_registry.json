@@ -29,21 +29,21 @@
   ],
   "efaa125fe540b1c2": {
     "node_id": "efaa125fe540b1c2",
-    "last_updated": "2026-03-23T10:49:23.026247+00:00",
+    "last_updated": "2026-03-23T10:49:40.380129+00:00",
     "active_tunnels": [
       {
         "worker_id": "p8080-worker-1",
         "provider": "localhost.run",
         "url": "https://608a9f2633db38.lhr.life",
         "local_port": 8080,
-        "updated": "2026-03-23T10:49:22.705002+00:00"
+        "updated": "2026-03-23T10:49:40.065441+00:00"
       },
       {
         "worker_id": "p8080-worker-2",
         "provider": "localhost.run",
         "url": "https://bb8a802148af5e.lhr.life",
         "local_port": 8080,
-        "updated": "2026-03-23T10:49:22.705026+00:00"
+        "updated": "2026-03-23T10:49:40.065453+00:00"
       }
     ]
   }
