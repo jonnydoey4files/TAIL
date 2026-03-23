@@ -1,0 +1,34 @@
+{
+  "exposer_id": "exposer-eaa21328",
+  "last_updated": "2026-03-23T11:00:25.500991+00:00",
+  "ports": {
+    "5000": {
+      "port_name": "HR",
+      "port_number": 5000,
+      "tunnel_count": 3,
+      "tunnels": [
+        {
+          "worker_id": "port-5000-worker-1",
+          "worker_index": 1,
+          "provider": "localhost.run",
+          "url": "https://165c2058dd566d.lhr.life",
+          "updated": "2026-03-23T11:00:25.502601+00:00"
+        },
+        {
+          "worker_id": "port-5000-worker-2",
+          "worker_index": 2,
+          "provider": "localhost.run",
+          "url": "https://f49038ef4220d8.lhr.life",
+          "updated": "2026-03-23T11:00:25.502610+00:00"
+        },
+        {
+          "worker_id": "port-5000-worker-3",
+          "worker_index": 3,
+          "provider": "localhost.run",
+          "url": "https://d0a8fd26ac2411.lhr.life",
+          "updated": "2026-03-23T11:00:25.502613+00:00"
+        }
+      ]
+    }
+  }
+}
