@@ -1,17 +1,18 @@
 {
-  "exposer_id": "exposer-53f9b87e",
-  "last_updated": "2026-03-23T12:41:59.184361+00:00",
+  "exposer_id": "exposer-f0269873",
+  "last_updated": "2026-03-23T13:13:39.256335+00:00",
   "ports": {
     "5000": {
+      "port_name": "Port 5000",
       "port_number": 5000,
       "tunnel_count": 1,
       "tunnels": [
         {
-          "worker_id": "port-5000-w1",
+          "worker_id": "port-5000-worker-1",
           "worker_index": 1,
           "provider": "localhost.run",
-          "url": "https://91e738da9133e7.lhr.life",
-          "updated": "2026-03-23T12:41:59.184382+00:00"
+          "url": "https://5cc132b108f2a3.lhr.life",
+          "updated": "2026-03-23T13:13:39.257815+00:00"
         }
       ]
     }
