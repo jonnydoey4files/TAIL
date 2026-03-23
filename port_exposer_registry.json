@@ -1,6 +1,6 @@
 {
   "exposer_id": "exposer-7c9e1fc7",
-  "last_updated": "2026-03-23T11:06:25.391744+00:00",
+  "last_updated": "2026-03-23T11:06:39.228479+00:00",
   "ports": {
     "5000": {
       "port_name": "HR",
@@ -11,22 +11,22 @@
           "worker_id": "port-5000-worker-1",
           "worker_index": 1,
           "provider": "localhost.run",
-          "url": "https://af63e2ff68093b.lhr.life",
-          "updated": "2026-03-23T11:06:25.392948+00:00"
+          "url": "https://45ef67ab5a85ce.lhr.life",
+          "updated": "2026-03-23T11:06:39.229254+00:00"
         },
         {
           "worker_id": "port-5000-worker-2",
           "worker_index": 2,
           "provider": "localhost.run",
-          "url": "https://46307efe22ce82.lhr.life",
-          "updated": "2026-03-23T11:06:25.392962+00:00"
+          "url": "https://fb5f45b8db3fdc.lhr.life",
+          "updated": "2026-03-23T11:06:39.229260+00:00"
         },
         {
           "worker_id": "port-5000-worker-3",
           "worker_index": 3,
           "provider": "localhost.run",
           "url": "https://c82fb377aa08c0.lhr.life",
-          "updated": "2026-03-23T11:06:25.392968+00:00"
+          "updated": "2026-03-23T11:06:39.229262+00:00"
         }
       ]
     }
