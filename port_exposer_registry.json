@@ -1,6 +1,6 @@
 {
   "exposer_id": "exposer-f92b7bfb",
-  "last_updated": "2026-03-28T16:27:40.884748+00:00",
+  "last_updated": "2026-03-28T16:27:54.953480+00:00",
   "ports": {
     "5000": {
       "port_name": "Port 5000",
@@ -11,8 +11,8 @@
           "worker_id": "port-5000-worker-1",
           "worker_index": 1,
           "provider": "localhost.run",
-          "url": "https://dfb6c21125ff6f.lhr.life",
-          "updated": "2026-03-28T16:27:40.885747+00:00"
+          "url": "https://1699a32da07748.lhr.life",
+          "updated": "2026-03-28T16:27:54.955481+00:00"
         }
       ]
     }
